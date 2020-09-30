@@ -1,4 +1,4 @@
-# pytorch-Deep-Learning-Notebooks-in-French
+# Deep Learning (with PyTorch) : les notebooks en français
 
 
 Les notebooks disponibles sur ce répertoire sont des traductions des notebooks en anglais de l'édition *Spring 2020* du cours **Deep Learning** du corps enseignant de la New York University. 
